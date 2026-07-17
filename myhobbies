@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.ex1 {
+  font-size: 25px;
+}
+p.ex2 {
+  font-size: 17px;
+}
+p.ex3 {
+  font-size: 19px;
+}
+</style
+</head>
+<body style="background-color:powderblue;">
+<input type="button" value="Info Page" onclick="window.open('https://glorious-meme-qvvjxxxgwrjpcv9v-3000.app.github.dev/Info?serverWindowId=87dc8572-e5b2-4734-a258-9c4e59efed84');" > 
+<input type="button" value="Hobbies Page" onclick="window.open('https://glorious-meme-qvvjxxxgwrjpcv9v-3000.app.github.dev/Myhobbies?serverWindowId=555adb88-0a88-4a33-8910-dc3ee093c1e4');" >
+<p class="ex1">Welcome to my hobbies page.
+<p class="ex2">I like coding, tech, books,and animals. I also like learning new things that challange me, preferably tech related <div></div>
+
+    <img src="https://media.istockphoto.com/id/1530973530/photo/software-development-concept.jpg?s=612x612&w=0&k=20&c=6orMyiQvcIIrx4vlL4cMNZT0hFQ7M_FU8uZc9PQ_0-g=" alt="Coding" width="160" height="180"> 
+    </html>
