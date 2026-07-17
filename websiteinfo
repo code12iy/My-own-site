@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.ex1 {
+  font-size: 25px;
+}
+p.ex2 {
+  font-size: 19px;
+}
+p.ex3 {
+  font-size: 19px;
+}
+</style
+</head>
+<body style="background-color:powderblue;">
+<input type="button" value="Home Page" onclick="window.open('https://glorious-meme-qvvjxxxgwrjpcv9v-3000.app.github.dev/index.html?serverWindowId=b8039a9c-6152-4d2b-b099-00d2ac638f20');" > 
+<input type="button" value="Hobbies Page" onclick="window.open('https://glorious-meme-qvvjxxxgwrjpcv9v-3000.app.github.dev/Myhobbies?serverWindowId=555adb88-0a88-4a33-8910-dc3ee093c1e4');" > 
+<p class="ex1">Welcome to my info page, here you can see the sites I used and learn more about them.  <div></div>
+<input type="button" value="W3 Schools" onclick="window.open('https://www.w3schools.com/');" > <div></div> <br>
+<input type="button" value="Stack Overflow" onclick="window.open('https://stackoverflow.com/');" > <div></div> <br>
+<input type="button" value="Github" onclick="window.open('https://github.com/');" >                <div></div> <br>
+<input type="button" value="VS Code" onclick="window.open('https://vscode.dev/');" > <div></div> <br>
+<input type="button" value="Hack Club" onclick="window.open('https://hackclub.com');" >                <div></div> <br>
+<input type="button" value="Stardance" onclick="window.open('https://stardance.hackclub.com/');" > <div></div> <br>
+    </html>
